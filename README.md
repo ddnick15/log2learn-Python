@@ -30,20 +30,10 @@ Each day, I’ll add:
 - Statistics, Linear Algebra, Calculus 📐
 - Real-world AI + DS use cases
 
----
-
-## 📈 Progress Tracker
-| Day | Topic | File |
-|-----|-------|------|
-| 1   | Introduction + Setup | [`day01_intro.md`](./day01_intro.md) |
-| 2   | Pythonic Loops | [`day02_loops.py`](./day02_loops.py) |
-| ... | ...   | ...  |
-
----
 
 ## 🧮 About Me
 
-I'm **Nakul**, a mathematician turned AI engineer, exploring the infinite space of ideas through code and logic.
+I'm **Nakul Nandola**, a mathematician turned Data Scientist/AI Engineer, exploring the infinite space of ideas through code and logic.
 
 📍 [LinkedIn](https://linkedin.com/in/dsnakul/) | 🧠 [GitHub](https://github.com/ddnick15) | 📬 nandolanakul7@gmail.com
 
